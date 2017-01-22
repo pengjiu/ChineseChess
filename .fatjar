@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jun 28 14:43:23 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ChineseChess_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.pj.chess.ChessBoardMain
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
