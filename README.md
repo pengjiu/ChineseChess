@@ -5,3 +5,4 @@
 3、大部分着法全是基于Bit位提前生成；<br/>
 <br/>
 在QQ象棋与高手对弈80%以上胜率
+启动类 com/pj/chess/ChessBoardMain
